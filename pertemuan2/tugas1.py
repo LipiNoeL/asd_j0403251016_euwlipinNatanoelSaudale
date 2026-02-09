@@ -3,7 +3,7 @@
 # Studi Kasus: Sistem Stok Barang Kantin (Berbasis File .txt)
 #
 # Nama : Euwlipin Natanoel Saudale
-# NIM : J04032510106
+# NIM : J0403251016
 # Kelas : A1
 # ==========================================================
 
