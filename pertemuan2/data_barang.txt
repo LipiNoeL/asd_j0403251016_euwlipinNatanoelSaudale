@@ -1,0 +1,10 @@
+BRG001,Indomie Goreng,15
+BRG002,Indomie Soto,80
+BRG003,Indomie Kari Ayam,150
+BRG004,Indomie Rendang,60
+BRG005,Kapal Api,40
+BRG006,Goodday Moccachino,150
+BRG007,Torabika Cappucinno,100
+BRG008,Nutrisari Jeruk,80
+BRG009,Nutrisari Anggur,30
+BRG010,Nutrisari Lychee,60
