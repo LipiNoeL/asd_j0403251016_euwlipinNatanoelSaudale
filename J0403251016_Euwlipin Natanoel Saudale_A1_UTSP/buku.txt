@@ -1,0 +1,4 @@
+B001,Laskar Pelangi,85000
+B002,Bumi Manusia,90000
+B003,Atomic Habits,120000
+B004,Filosofi Teras,95000
